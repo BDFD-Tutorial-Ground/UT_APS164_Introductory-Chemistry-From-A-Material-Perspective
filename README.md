@@ -19,60 +19,70 @@
 
 ![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
+The principle of structure-property relationship refers to an understanding of the microstructure of a solid, that is, the nature of the bonds between atoms and the spatial
+arrangement of atoms, which permits the explanation of observed behaviour. Observed materials behaviour includes mechanical, electrical, magnetic, optical, and corrosive
+behaviour. Topics covered in this course include: structure of the atom, models of the atom, electronic configuration, the electromagnetic spectrum, band theory, atomic bonding, optical
+transparency of solids, magnetic properties, molecular bonding, hybridized orbitals, crystal systems, lattices and structures, crystallographic notation, imperfections in solids, reaction
+rates, activation energy, solid-state diffusion, materials thermodynamics, free energy, and phase equilibrium. Online only.
 
 **Course prerequisite**
 
-- [x] **C1-4U Calculus and Vectors**
-- [x] **C2-4U Advanced Functions**
-- [x] **C3-4U Physics**
+- [x] **C1-MHF4U-Gr12_Advanced Functions**
+- [x] **C2-MCV4U-Gr12_Calculus and Vectors**
+- [x] **C3-SPH4U-Gr12_Physics**
+- [x] **C4-SCH4U-Gr12_Chemistry**
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
-- [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
+- [x] **C1-Texbook**
+- [ ] **C2-Solution Mannual(Publisher/Year)**
+- [x] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
 - [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [x] **P5-Unit Test Review Question(Publisher/Year)**
+- [x] **P6-Exam Review Question(Publisher/Year)**
 
 ## Course Learn Path - Modules
 
 The courses enlisted as follows:
 
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
+- [x] **M1-Introductions**
+- [x] **M2-Elastic Behaviour**
+- [x] **M3-Behaviour That's Not Elastic**
+- [x] **M4-The Structure Property Relationship**
+- [x] **M5-More Strcture**
+- [x] **M6-More Technical with Mechanical Behaviour**
+- [x] **M7-Meddling with Matter**
+- [x] **M8-Plastic and Polymers**
+- [x] **M9-Better Model**
+- [x] **M10-Magnetism**
+- [x] **M11-Free Energy**
+- [x] **M12-Phase Equilibrium and Phase Diagrams**
+- [x] **M13-Electochemistry**
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Waterloo  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+University Enrolled : University of Toronto
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Univeristy_of_Toronto.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
+1. Lecture Facilitator - Prof. Scott Ramsay
 
 ## Applied Learning Project
 
 **Textbooks:**
 
-1. University Physics, 15th Ed. By Young and Freedman
+1. Top Hat-Online Textbook
 
 **Add-on Resources:**
 
-1. Mastering Physics on-line homework system
-2. Scientific Calculator
+1. Scientific Calculator
 
 **Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+<!-- - [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science) -->
 
 <div align="center">
 
@@ -87,5 +97,3 @@ Main Instructor:
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
