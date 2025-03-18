@@ -34,12 +34,12 @@ rates, activation energy, solid-state diffusion, materials thermodynamics, free 
 
 **Course Content**
 
-- [x] **C1-Texbook**
+- [x] **C1-Texbook(Publisher:Top Hat)**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
-- [x] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
+- [x] **P3-Lecture Handout(Lecture Note/2024)**
 - [ ] **P4-Project Plan(Self Prepare)**
-- [x] **P5-Unit Test Review Question(Publisher/Year)**
-- [x] **P6-Exam Review Question(Publisher/Year)**
+- [x] **P5-Unit Test Review Question(2004-2024)**
+- [x] **P6-Exam Review Question(2004-2024)**
 
 ## Course Learn Path - Modules
 
@@ -61,7 +61,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Toronto
+University Enrolled : University of Toronto  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Univeristy_of_Toronto.png" alt="bdfd" />
 
 Main Instructor:
