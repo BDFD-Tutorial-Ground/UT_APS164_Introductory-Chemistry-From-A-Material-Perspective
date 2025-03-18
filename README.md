@@ -7,35 +7,18 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style!
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/UTSG_APS164_Introductory-Chemistry-From-A-Material-Perspective.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/UTSG_APS164_Introductory-Chemistry-From-A-Material-Perspective?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/UTSG_APS164_Introductory-Chemistry-From-A-Material-Perspective?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Introductory-Chemistry-From-A-Material-Perspective(UTSG-APS164)
 
 ## About This Course/Certificate
 
 ![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
-  <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&color=416572"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&color=3F4F75">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?style=plastic&logo=scikit-learn&logoColor=white&color=FCA043"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
-</p> 
 An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
 
 **Course prerequisite**
@@ -43,7 +26,6 @@ An introductory course in physics for students intending to concentrate their fu
 - [x] **C1-4U Calculus and Vectors**
 - [x] **C2-4U Advanced Functions**
 - [x] **C3-4U Physics**
-      [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
 
 **Course Content**
 
