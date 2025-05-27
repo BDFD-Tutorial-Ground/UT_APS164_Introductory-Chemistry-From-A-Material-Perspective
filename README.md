@@ -36,7 +36,7 @@ rates, activation energy, solid-state diffusion, materials thermodynamics, free 
 
 - [x] **C1-Texbook(Publisher:Top Hat)**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
-- [x] **P3-Lecture Handout(Lecture Note/2024)**
+- [x] **P3-Lecture Handout**
 - [ ] **P4-Project Plan(Self Prepare)**
 - [x] **P5-Unit Test Review Question(2004-2024)**
 - [x] **P6-Exam Review Question(2004-2024)**
@@ -47,17 +47,15 @@ The courses enlisted as follows:
 
 - [x] **M1-Introductions**
 - [x] **M2-Elastic Behaviour**
-- [x] **M3-Behaviour That's Not Elastic**
+- [x] **M3-Plastic Behaviour**
 - [x] **M4-The Structure Property Relationship**
 - [x] **M5-More Strcture**
-- [x] **M6-More Technical with Mechanical Behaviour**
+- [x] **M6-Mechanical Behaviour**
 - [x] **M7-Meddling with Matter**
 - [x] **M8-Plastic and Polymers**
-- [x] **M9-Better Model**
-- [x] **M10-Magnetism**
-- [x] **M11-Free Energy**
-- [x] **M12-Phase Equilibrium and Phase Diagrams**
-- [x] **M13-Electochemistry**
+- [x] **M9-Atomic Model**
+- [x] **M10-Energy**
+- [x] **M11-Phase Equilibrium and Phase Diagrams**
 
 ## Course Description: 1 Course
 
