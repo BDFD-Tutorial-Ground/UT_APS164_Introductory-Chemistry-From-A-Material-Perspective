@@ -1,11 +1,11 @@
 For 3.0 Lecture Handout
- 1)Folder: Lecture Note-01
+ 1)Folder: APS164 Lecture Note-01
    Provider: UTSG Note System
    Download Link: official
- 2)Folder: Lecture Tutorial Note
+ 2)Folder: APS164 Tutorial Note-01
    Provider: Savvy Course File
    Download Link: Savvy
- 3)Self Prepared Summary Note
+ 3)Folder: APS164 Summary Note-01
     Provider: studocu
     Download Link: missed
 
