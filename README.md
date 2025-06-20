@@ -37,9 +37,12 @@ rates, activation energy, solid-state diffusion, materials thermodynamics, free 
 - [x] **C1-Texbook(Top Hat Online Textbook/2024)**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
 - [x] **P3-Lecture Handout([SPSN01/2024]/[LN01/2024]/[TN01/2024])**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [x] **P5-Unit Test Review Question(2004-2024)**
-- [x] **P6-Exam Review Question(2004-2024)**
+- [ ] **P4-Problem Set(Providers/Year)**
+- [ ] **P5-Course Project(Providers/Year)**
+- [ ] **P6-Past Quiz(2025S)**
+- [x] **P7-Past Test(2020,2021,2023)**
+- [x] **P8-Past Exam(2024)**
+- [x] **P9-Reference Note/Book**
 
 ## Course Learn Path - Modules
 
