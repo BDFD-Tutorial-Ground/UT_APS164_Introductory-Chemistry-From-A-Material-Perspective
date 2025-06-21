@@ -1,10 +1,12 @@
 <!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
+ * @Date         : 2025-06-02 23:21:39
+ * @Author       : BDFD,bdfd2005@gmail.com
+ * @Github       : https://github.com/bdfd
+ * @LastEditTime : 2025-06-20 23:29:12
+ * @LastEditors  : <BDFD>
+ * @Description  :
+ * @FilePath     : \README.md
+ * Copyright (c) 2025 by BDFD, All Rights Reserved.
 -->
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
