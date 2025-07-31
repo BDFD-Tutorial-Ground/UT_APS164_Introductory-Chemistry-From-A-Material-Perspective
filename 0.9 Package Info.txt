@@ -1,14 +1,16 @@
+For 1.0 Lecture Handout
+1)Folder: APS164 Summary Note
+    Provider: studocu
+    Download Link: missed
 For 3.0 Lecture Handout
  1)Folder: APS164 Lecture Note-01
    Provider: UTSG Note System Prof Provided
    Download Link: official
  1)Folder: APS164 Lecture Note-02
    Provider: UTSG Note System Student Written Note
-   Download Link: official
+   Reference Source: CourseHero
+   Download Link:https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/
  2)Folder: APS164 Tutorial Note-01
    Provider:  
    Download Link:  
- 3)Folder: APS164 Summary Note-01
-    Provider: studocu
-    Download Link: missed
 
