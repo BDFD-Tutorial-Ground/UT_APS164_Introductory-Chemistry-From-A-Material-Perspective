@@ -6,11 +6,20 @@ For 3.0 Lecture Handout
  1)Folder: APS164 Lecture Note-01
    Provider: UTSG Note System Prof Provided
    Download Link: official
- 1)Folder: APS164 Lecture Note-02
-   Provider: UTSG Note System Student Written Note
+ 2)Folder: APS164 Lecture Note-02
+   Provider: Unknown Student
    Reference Source: CourseHero
    Download Link:https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/
- 2)Folder: APS164 Tutorial Note-01
-   Provider:  
-   Download Link:  
-
+3)Folder: APS164 Tutorial Note-01
+   Provider: TA. Pedro Guerra Demingos  
+   Download Link:https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/  
+ 4)Folder: APS164 Tutorial Note-02
+   Provider: TA.    
+   Download Link:https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/   
+ 5)Folder: APS164 Tutorial Note-03
+   Provider: Unknown 
+   Download Link:https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/ 
+For 9.0 Reference Notebook
+ 1)Folder: APS164 Tutorial Note-01
+   Provider: TA. Darya Amirmaleki
+   Download Link: https://www.coursehero.com/sitemap/schools/2623-University-of-Toronto/courses/10900334-APS110/ 
