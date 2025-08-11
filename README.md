@@ -2,7 +2,7 @@
  * @Date         : 2025-06-02 23:21:39
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-20 23:29:12
+ * @LastEditTime : 2025-08-11 13:11:05
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -38,13 +38,16 @@ rates, activation energy, solid-state diffusion, materials thermodynamics, free 
 
 - [x] **C1-Texbook(Top Hat Online Textbook/2024)**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
-- [x] **P3-Lecture Handout([SPSN01/2024]/[LN01/2024]/[TN01/2024])**
-- [ ] **P4-Problem Set(Providers/Year)**
-- [ ] **P5-Course Project(Providers/Year)**
-- [x] **P6-Past Quiz(2025S)**
-- [x] **P7-Past Test(2020,2021,2023)**
-- [x] **P8-Past Exam(2024)**
-- [x] **P9-Reference Note/Book**
+- [x] **P3-Lecture Note Annoted([SN01/2024]/[SN02/2024]/[SP01/2025])**
+- [ ] **P3.1-Summmary Note([SN01/2024])**
+- [ ] **P4-Tutorial Slide([TSTA01/2024]/[TSTA02/2024]/[TSST03/2024])**
+- [ ] **P5-Problem Set([PS01/2022])**
+- [ ] **P6-Course Projects(Providers/Year)**
+- [ ] **P6.1-Writing Activities(Providers/Year)**
+- [x] **P7-Past-Class Quiz(2024,2025S)**
+- [x] **P8-Term Test(2018,2020,2021,2023)**
+- [x] **P9-Fianl Exam Reivew(2018,2024)**
+- [x] **P10-Reference Note/Book**
 
 ## Course Learn Path - Modules
 
@@ -84,8 +87,6 @@ Main Instructor:
 **Projects:**
 
 #### Useful Resources
-
-<!-- - [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science) -->
 
 <div align="center">
 
