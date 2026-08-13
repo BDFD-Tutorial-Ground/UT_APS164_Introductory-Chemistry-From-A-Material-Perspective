@@ -1,0 +1,354 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 4393 >>
+stream
+BT 0.063 0.165 0.263 rg /F2 18.00 Tf 48.00 746.00 Td (Crystal Structure Comparison: FCC, BCC, HCP, Simple Cubic, and Rock Salt) Tj ET
+q 0.114 0.306 0.847 rg 48.00 728.00 516.00 2.50 re f Q
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 696.00 Td (Quick Comparison Table) Tj ET
+q 0.973 0.980 0.988 rg 48.00 531.00 516.00 148.00 re f Q
+q 0.784 0.820 0.863 RG 48.00 531.00 516.00 148.00 re S Q
+BT 0.063 0.165 0.263 rg /F2 12.00 Tf 58.00 671.00 Td (SC) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 655.00 Td (Full name: Simple cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 643.00 Td (Conventional unit cell contents: 1 atom/cell) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 631.00 Td (Coordination number: 6) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 619.00 Td (Atomic packing factor: 0.52) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 607.00 Td (Close-packed plane: None truly close-packed; densest plane is {100}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 595.00 Td (Close-packed direction: <100> directions are nearest-neighbor directions) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 583.00 Td (Stacking / key geometry: Simple cubic layers stacked directly above each) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 571.00 Td (  other) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 559.00 Td (Common examples: Polonium, idealized model) Tj ET
+q 0.973 0.980 0.988 rg 48.00 411.00 516.00 136.00 re f Q
+q 0.784 0.820 0.863 RG 48.00 411.00 516.00 136.00 re S Q
+BT 0.063 0.165 0.263 rg /F2 12.00 Tf 58.00 539.00 Td (BCC) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 523.00 Td (Full name: Body-centered cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 511.00 Td (Conventional unit cell contents: 2 atoms/cell) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 499.00 Td (Coordination number: 8 nearest neighbors) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 487.00 Td (Atomic packing factor: 0.68) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 475.00 Td (Close-packed plane: None truly close-packed; densest planes are {110}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 463.00 Td (Close-packed direction: <111> are closest-packed directions) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 451.00 Td (Stacking / key geometry: Atoms touch along body diagonal) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 439.00 Td (Common examples: alpha-Fe, Cr, W, Mo) Tj ET
+q 0.973 0.980 0.988 rg 48.00 291.00 516.00 136.00 re f Q
+q 0.784 0.820 0.863 RG 48.00 291.00 516.00 136.00 re S Q
+BT 0.063 0.165 0.263 rg /F2 12.00 Tf 58.00 419.00 Td (FCC) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 403.00 Td (Full name: Face-centered cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 391.00 Td (Conventional unit cell contents: 4 atoms/cell) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 379.00 Td (Coordination number: 12) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 367.00 Td (Atomic packing factor: 0.74) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 355.00 Td (Close-packed plane: {111}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 343.00 Td (Close-packed direction: <110>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 331.00 Td (Stacking / key geometry: ABCABC close-packed stacking) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 319.00 Td (Common examples: Al, Cu, Ni, Ag, Au, Pb) Tj ET
+q 0.973 0.980 0.988 rg 48.00 159.00 516.00 148.00 re f Q
+q 0.784 0.820 0.863 RG 48.00 159.00 516.00 148.00 re S Q
+BT 0.063 0.165 0.263 rg /F2 12.00 Tf 58.00 299.00 Td (HCP) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 283.00 Td (Full name: Hexagonal close-packed) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 271.00 Td (Conventional unit cell contents: 6 atoms/conventional cell; 2) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 259.00 Td (  atoms/primitive cell) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 247.00 Td (Coordination number: 12) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 235.00 Td (Atomic packing factor: 0.74 ideal) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 223.00 Td (Close-packed plane: {0001} basal plane) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 211.00 Td (Close-packed direction: <11-20>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 199.00 Td (Stacking / key geometry: ABAB close-packed stacking) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 187.00 Td (Common examples: Mg, Ti, Zn, Co) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 4494 >>
+stream
+q 0.973 0.980 0.988 rg 48.00 594.00 516.00 160.00 re f Q
+q 0.784 0.820 0.863 RG 48.00 594.00 516.00 160.00 re S Q
+BT 0.063 0.165 0.263 rg /F2 12.00 Tf 58.00 746.00 Td (Rock Salt) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 730.00 Td (Full name: NaCl-type ionic structure) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 718.00 Td (Conventional unit cell contents: 4 formula units/cell; 4 cations + 4 anions) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 706.00 Td (Coordination number: 6 for each ion, opposite charge only) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 694.00 Td (Atomic packing factor: Depends on ion sizes; not a single metallic APF) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 682.00 Td (Close-packed plane: Not usually described by metallic close-packed planes;) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 670.00 Td (  each ion sublattice is FCC with {111} close-packed layers) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 658.00 Td (Close-packed direction: Nearest unlike-ion directions are <100>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 646.00 Td (Stacking / key geometry: Two interpenetrating FCC sublattices; cations fill) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 634.00 Td (  all octahedral sites of anion FCC lattice) Tj ET
+BT 0.122 0.161 0.200 rg /F1 8.80 Tf 62.00 622.00 Td (Common examples: NaCl, MgO, CaO, FeO) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 590.00 Td (Main Takeaways) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 565.00 Td (FCC and HCP are the two classic close-packed metallic structures. They both have:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 546.00 Td (- coordination number 12) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 532.00 Td (- maximum equal-sphere packing efficiency of 0.74) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 518.00 Td (- triangular/hexagonal close-packed atomic layers) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 499.00 Td (The difference is the stacking sequence:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 450.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 472.00 Td (FCC: ABCABC...) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 460.00 Td (HCP: ABAB...) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 435.00 Td (BCC is dense, but it is not close-packed. It has close-packed directions, especially) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 421.00 Td (<111>, but no plane has the true triangular close-packed arrangement found in FCC {111}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 407.00 Td (or HCP {0001}.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 388.00 Td (Simple cubic is much more open. Its atoms touch along cube edges, but it does not) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 374.00 Td (contain a true close-packed plane.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 355.00 Td (Rock salt is an ionic crystal, so it should not be treated exactly like a one-atom) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 341.00 Td (metallic lattice. It is best understood as two interpenetrating FCC lattices: one for) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 327.00 Td (anions and one for cations.) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 301.00 Td (FCC: Face-Centered Cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 276.00 Td (In FCC, atoms are located at the 8 corners and the 6 face centers of the cubic unit) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 262.00 Td (cell.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 243.00 Td (Effective atoms per conventional unit cell:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 206.00 516.00 26.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 216.00 Td (8 corners x 1/8 + 6 face centers x 1/2 = 4 atoms) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 191.00 Td (Key facts:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 172.00 Td (- Coordination number: 12) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 158.00 Td (- Atomic packing factor: 0.74) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 144.00 Td (- Close-packed planes: {111}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 130.00 Td (- Close-packed directions: <110>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 116.00 Td (- Stacking sequence: ABCABC...) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 102.00 Td (- Atoms touch along the face diagonal.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 83.00 Td (Radius-lattice parameter relation:) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 3452 >>
+stream
+q 0.067 0.094 0.153 rg 48.00 716.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 738.00 Td (4r = sqrt\(2\)a) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 726.00 Td (a = 2sqrt\(2\)r) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 701.00 Td (The FCC {111} plane has a triangular arrangement of atoms. This is why it is a close-) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 687.00 Td (packed plane.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 668.00 Td (Common FCC metals:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 649.00 Td (- Al) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 635.00 Td (- Cu) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 621.00 Td (- Ni) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 607.00 Td (- Ag) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 593.00 Td (- Au) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 579.00 Td (- Pb) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 553.00 Td (HCP: Hexagonal Close-Packed) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 528.00 Td (HCP is also a close-packed structure, but it uses a hexagonal unit cell instead of a) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 514.00 Td (cubic one.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 495.00 Td (Key facts:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 476.00 Td (- Coordination number: 12) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 462.00 Td (- Atomic packing factor: 0.74 for ideal HCP) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 448.00 Td (- Close-packed plane: {0001}, also called the basal plane) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 434.00 Td (- Close-packed directions: <11-20>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 420.00 Td (- Stacking sequence: ABAB...) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 401.00 Td (Ideal HCP geometry:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 352.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 374.00 Td (a = 2r) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 362.00 Td (c/a = 1.633) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 337.00 Td (HCP and FCC have the same packing efficiency and coordination number. The major) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 323.00 Td (difference is the layer stacking:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 274.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 296.00 Td (HCP repeats every 2 layers: ABAB...) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 284.00 Td (FCC repeats every 3 layers: ABCABC...) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 259.00 Td (Common HCP metals:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 240.00 Td (- Mg) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 226.00 Td (- Ti) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 212.00 Td (- Zn) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 198.00 Td (- Co) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 172.00 Td (BCC: Body-Centered Cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 147.00 Td (In BCC, atoms are located at the 8 corners and 1 body center of the cubic unit cell.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 128.00 Td (Effective atoms per conventional unit cell:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 91.00 516.00 26.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 101.00 Td (8 corners x 1/8 + 1 body center = 2 atoms) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 76.00 Td (Key facts:) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 3683 >>
+stream
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 746.00 Td (- Coordination number: 8 nearest neighbors) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 732.00 Td (- Atomic packing factor: 0.68) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 718.00 Td (- No true close-packed plane) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 704.00 Td (- Densest planes: {110}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 690.00 Td (- Closest-packed directions: <111>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 676.00 Td (- Atoms touch along the body diagonal.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 657.00 Td (Radius-lattice parameter relation:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 608.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 630.00 Td (4r = sqrt\(3\)a) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 618.00 Td (a = 4r / sqrt\(3\)) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 593.00 Td (Important exam note:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 574.00 Td (Although BCC often slips in <111> directions and has dense {110} planes, the {110}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 560.00 Td (planes are not close-packed in the same strict sense as FCC {111} or HCP {0001}. A true) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 546.00 Td (close-packed plane must have atoms arranged in a triangular/hexagonal net.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 527.00 Td (Common BCC metals:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 508.00 Td (- alpha-Fe) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 494.00 Td (- Cr) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 480.00 Td (- W) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 466.00 Td (- Mo) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 440.00 Td (Simple Cubic) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 415.00 Td (In simple cubic, atoms are located only at the 8 corners of the cubic unit cell.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 396.00 Td (Effective atoms per conventional unit cell:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 359.00 516.00 26.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 369.00 Td (8 corners x 1/8 = 1 atom) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 344.00 Td (Key facts:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 325.00 Td (- Coordination number: 6) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 311.00 Td (- Atomic packing factor: 0.52) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 297.00 Td (- No true close-packed plane) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 283.00 Td (- Densest plane: {100}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 269.00 Td (- Nearest-neighbor directions: <100>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 255.00 Td (- Atoms touch along cube edges.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 236.00 Td (Radius-lattice parameter relation:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 199.00 516.00 26.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 209.00 Td (a = 2r) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 184.00 Td (Simple cubic is relatively open compared with FCC, HCP, and BCC. It is uncommon among) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 170.00 Td (real elemental solids.) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 144.00 Td (Rock Salt Structure) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 119.00 Td (Rock salt, also called the NaCl structure, is an ionic crystal structure. It is not a) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 105.00 Td (simple metallic packing of identical atoms.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 86.00 Td (The easiest way to describe it:) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4133 >>
+stream
+q 0.067 0.094 0.153 rg 48.00 716.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 738.00 Td (One ion type forms an FCC lattice.) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 726.00 Td (The other ion type occupies all octahedral sites.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 701.00 Td (For NaCl specifically:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 682.00 Td (- Cl- ions can be viewed as forming an FCC sublattice.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 668.00 Td (- Na+ ions occupy all octahedral holes.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 654.00 Td (- Equivalently, Na+ and Cl- form two interpenetrating FCC sublattices.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 635.00 Td (Key facts:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 616.00 Td (- Coordination number: 6 for Na+ and 6 for Cl-) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 602.00 Td (- Geometry around each ion: octahedral) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 588.00 Td (- Formula units per conventional unit cell: 4 NaCl) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 574.00 Td (- Ion positions are commonly described as FCC anions plus cations in octahedral) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 560.00 Td (  sites.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 58.00 546.00 Td (- Nearest unlike-ion directions: <100>) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 527.00 Td (Nearest-neighbor relation:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 478.00 516.00 38.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 500.00 Td (r_cation + r_anion = a/2) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 488.00 Td (a = 2\(r_cation + r_anion\)) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 463.00 Td (Radius ratio condition for stable octahedral coordination:) Tj ET
+q 0.067 0.094 0.153 rg 48.00 426.00 516.00 26.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 436.00 Td (0.414 <= r_cation / r_anion <= 0.732) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 411.00 Td (Close-packed plane note:) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 392.00 Td (Rock salt is often related to FCC packing because the larger ions, commonly the anions,) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 378.00 Td (form an FCC array. Therefore the anion sublattice has FCC-style close-packed {111}) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 364.00 Td (planes. However, for the full NaCl ionic structure, it is usually better to describe the) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 350.00 Td (structure by coordination number and octahedral coordination rather than saying it has a) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 336.00 Td (metallic close-packed plane.) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 310.00 Td (Exam-Friendly Distinctions) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 285.00 Td (Do not confuse these ideas:) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 266.00 Td (Close-packed plane | A plane where atoms form a triangular/hexagonal touching pattern |) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 255.00 Td (FCC {111}, HCP {0001}) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 242.00 Td (Densest plane | The plane with highest planar density in that structure | BCC {110}, SC) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 231.00 Td ({100}) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 218.00 Td (Close-packed direction | A direction along which atoms touch most closely | FCC <110>, BCC) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 207.00 Td (<111>, SC <100>) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 194.00 Td (Coordination number | Number of nearest neighbors around one atom or ion | FCC = 12, BCC =) Tj ET
+BT 0.122 0.161 0.200 rg /F3 8.60 Tf 48.00 183.00 Td (8, NaCl = 6) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 165.00 Td (This is why BCC can have a closest-packed direction, <111>, without having a true close-) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 151.00 Td (packed plane.) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 125.00 Td (Short Memory Version) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 4454 >>
+stream
+q 0.067 0.094 0.153 rg 48.00 320.00 516.00 434.00 re f Q
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 738.00 Td (FCC:) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 726.00 Td (  CN = 12) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 714.00 Td (  APF = 0.74) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 702.00 Td (  close-packed plane = {111}) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 690.00 Td (  close-packed direction = <110>) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 678.00 Td (  stacking = ABCABC) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 666.00 Td () Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 654.00 Td (HCP:) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 642.00 Td (  CN = 12) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 630.00 Td (  APF = 0.74) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 618.00 Td (  close-packed plane = {0001}) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 606.00 Td (  close-packed direction = <11-20>) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 594.00 Td (  stacking = ABAB) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 582.00 Td () Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 570.00 Td (BCC:) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 558.00 Td (  CN = 8) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 546.00 Td (  APF = 0.68) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 534.00 Td (  no true close-packed plane) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 522.00 Td (  densest plane = {110}) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 510.00 Td (  closest-packed direction = <111>) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 498.00 Td () Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 486.00 Td (Simple Cubic:) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 474.00 Td (  CN = 6) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 462.00 Td (  APF = 0.52) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 450.00 Td (  no true close-packed plane) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 438.00 Td (  densest plane = {100}) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 426.00 Td (  nearest-neighbor direction = <100>) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 414.00 Td () Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 402.00 Td (Rock Salt:) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 390.00 Td (  CN = 6 for each ion) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 378.00 Td (  4 formula units per unit cell) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 366.00 Td (  two interpenetrating FCC sublattices) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 354.00 Td (  cations fill octahedral sites) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 342.00 Td (  best described as octahedral ionic coordination, not simple metallic close) Tj ET
+BT 0.898 0.906 0.922 rg /F3 8.80 Tf 60.00 330.00 Td (packing) Tj ET
+BT 0.063 0.165 0.263 rg /F2 14.00 Tf 48.00 298.00 Td (Common Mistakes) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 273.00 Td (1. Saying BCC has close-packed planes.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 254.00 Td (More accurate: BCC has no true close-packed plane. Its densest planes are {110},) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 241.00 Td (  and its closest-packed directions are <111>.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 223.00 Td (2. Saying FCC and HCP are completely different in packing efficiency.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 204.00 Td (More accurate: FCC and HCP both have APF = 0.74 and coordination number 12. Their) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 191.00 Td (  main difference is stacking sequence.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 173.00 Td (3. Treating rock salt as if it were a one-atom FCC metal.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 154.00 Td (More accurate: Rock salt is an ionic structure with two ion types. It has) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 141.00 Td (  octahedral coordination, 6:6 coordination, and 4 formula units per cubic unit) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 128.00 Td (  cell.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.50 Tf 48.00 110.00 Td (4. Confusing coordination number with number of atoms per unit cell.) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 91.00 Td (Example: FCC has 4 atoms per conventional unit cell, but each atom has 12 nearest) Tj ET
+BT 0.122 0.161 0.200 rg /F1 10.00 Tf 66.00 78.00 Td (  neighbors.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 5 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 7 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 8 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 16 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 9 0 R >>
+endobj
+16 0 obj
+<< /Type /Pages /Kids [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] /Count 6 >>
+endobj
+17 0 obj
+<< /Type /Catalog /Pages 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000000228 00000 n 
+0000004673 00000 n 
+0000009219 00000 n 
+0000012723 00000 n 
+0000016458 00000 n 
+0000020643 00000 n 
+0000025149 00000 n 
+0000025297 00000 n 
+0000025445 00000 n 
+0000025593 00000 n 
+0000025741 00000 n 
+0000025889 00000 n 
+0000026037 00000 n 
+0000026131 00000 n 
+trailer
+<< /Size 18 /Root 17 0 R >>
+startxref
+26182
+%%EOF

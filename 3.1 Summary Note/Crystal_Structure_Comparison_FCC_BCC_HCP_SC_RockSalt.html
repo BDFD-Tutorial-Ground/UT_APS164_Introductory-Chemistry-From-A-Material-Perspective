@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crystal Structure Comparison</title>
+<style>
+:root {
+  color-scheme: light;
+  --ink: #1f2933;
+  --muted: #52616b;
+  --blue: #1d4ed8;
+  --blue-soft: #eaf2ff;
+  --line: #c8d1dc;
+  --code-bg: #111827;
+  --page-bg: #f5f7fb;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--page-bg);
+  color: var(--ink);
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.55;
+}
+main {
+  max-width: 1120px;
+  margin: 28px auto;
+  background: white;
+  padding: 40px 48px;
+  border: 1px solid #dde5ef;
+  box-shadow: 0 10px 32px rgba(15, 23, 42, 0.08);
+}
+h1 {
+  margin: 0 0 22px;
+  padding-bottom: 12px;
+  color: #102a43;
+  font-size: 2.15rem;
+  line-height: 1.15;
+  border-bottom: 4px solid var(--blue);
+}
+h2 {
+  margin: 34px 0 12px;
+  color: #12355b;
+  font-size: 1.38rem;
+  line-height: 1.25;
+}
+p { margin: 0 0 12px; }
+ul, ol { margin: 8px 0 16px 1.4rem; padding: 0; }
+li { margin: 4px 0; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 14px 0 24px;
+  font-size: 0.92rem;
+  overflow-wrap: anywhere;
+}
+th, td {
+  border: 1px solid var(--line);
+  padding: 9px 10px;
+  vertical-align: top;
+}
+th {
+  background: var(--blue-soft);
+  color: #102a43;
+  font-weight: 700;
+}
+tr:nth-child(even) td { background: #f8fafc; }
+code {
+  background: #eef2f7;
+  color: #111827;
+  padding: 0.12rem 0.28rem;
+  border-radius: 4px;
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.94em;
+}
+pre {
+  margin: 12px 0 18px;
+  padding: 14px 16px;
+  background: var(--code-bg);
+  color: #e5e7eb;
+  border-radius: 8px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+pre code { background: transparent; color: inherit; padding: 0; }
+@page { size: Letter; margin: 0.55in; }
+@media print {
+  body { background: white; }
+  main { max-width: none; margin: 0; padding: 0; border: none; box-shadow: none; }
+  h1 { font-size: 24pt; }
+  h2 { break-after: avoid; }
+  table, pre { break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<main>
+<h1 id="crystal-structure-comparison-fcc-bcc-hcp-simple-cubic-and-rock-salt">Crystal Structure Comparison: FCC, BCC, HCP, Simple Cubic, and Rock Salt</h1>
+<h2 id="quick-comparison-table">Quick Comparison Table</h2>
+<table>
+<thead>
+<tr>
+<th>Structure</th>
+<th>Full name</th>
+<th style="text-align: right;">Conventional unit cell contents</th>
+<th style="text-align: right;">Coordination number</th>
+<th style="text-align: right;">Atomic packing factor</th>
+<th>Close-packed plane</th>
+<th>Close-packed direction</th>
+<th>Stacking / key geometry</th>
+<th>Common examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SC</td>
+<td>Simple cubic</td>
+<td style="text-align: right;">1 atom/cell</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">0.52</td>
+<td>None truly close-packed; densest plane is {100}</td>
+<td>&lt;100&gt; directions are nearest-neighbor directions</td>
+<td>Simple cubic layers stacked directly above each other</td>
+<td>Polonium, idealized model</td>
+</tr>
+<tr>
+<td>BCC</td>
+<td>Body-centered cubic</td>
+<td style="text-align: right;">2 atoms/cell</td>
+<td style="text-align: right;">8 nearest neighbors</td>
+<td style="text-align: right;">0.68</td>
+<td>None truly close-packed; densest planes are {110}</td>
+<td>&lt;111&gt; are closest-packed directions</td>
+<td>Atoms touch along body diagonal</td>
+<td>alpha-Fe, Cr, W, Mo</td>
+</tr>
+<tr>
+<td>FCC</td>
+<td>Face-centered cubic</td>
+<td style="text-align: right;">4 atoms/cell</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">0.74</td>
+<td>{111}</td>
+<td>&lt;110&gt;</td>
+<td>ABCABC close-packed stacking</td>
+<td>Al, Cu, Ni, Ag, Au, Pb</td>
+</tr>
+<tr>
+<td>HCP</td>
+<td>Hexagonal close-packed</td>
+<td style="text-align: right;">6 atoms/conventional cell; 2 atoms/primitive cell</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">0.74 ideal</td>
+<td>{0001} basal plane</td>
+<td>&lt;11-20&gt;</td>
+<td>ABAB close-packed stacking</td>
+<td>Mg, Ti, Zn, Co</td>
+</tr>
+<tr>
+<td>Rock Salt</td>
+<td>NaCl-type ionic structure</td>
+<td style="text-align: right;">4 formula units/cell; 4 cations + 4 anions</td>
+<td style="text-align: right;">6 for each ion, opposite charge only</td>
+<td style="text-align: right;">Depends on ion sizes; not a single metallic APF</td>
+<td>Not usually described by metallic close-packed planes; each ion sublattice is FCC with {111} close-packed layers</td>
+<td>Nearest unlike-ion directions are &lt;100&gt;</td>
+<td>Two interpenetrating FCC sublattices; cations fill all octahedral sites of anion FCC lattice</td>
+<td>NaCl, MgO, CaO, FeO</td>
+</tr>
+</tbody>
+</table>
+<h2 id="main-takeaways">Main Takeaways</h2>
+<p>FCC and HCP are the two classic close-packed metallic structures. They both have:</p>
+<ul>
+<li>coordination number 12</li>
+<li>maximum equal-sphere packing efficiency of 0.74</li>
+<li>triangular/hexagonal close-packed atomic layers</li>
+</ul>
+<p>The difference is the stacking sequence:</p>
+<pre><code class="language-text">FCC: ABCABC...
+HCP: ABAB...
+</code></pre>
+<p>BCC is dense, but it is not close-packed. It has close-packed directions, especially &lt;111&gt;, but no plane has the true triangular close-packed arrangement found in FCC {111} or HCP {0001}.</p>
+<p>Simple cubic is much more open. Its atoms touch along cube edges, but it does not contain a true close-packed plane.</p>
+<p>Rock salt is an ionic crystal, so it should not be treated exactly like a one-atom metallic lattice. It is best understood as two interpenetrating FCC lattices: one for anions and one for cations.</p>
+<h2 id="fcc-face-centered-cubic">FCC: Face-Centered Cubic</h2>
+<p>In FCC, atoms are located at the 8 corners and the 6 face centers of the cubic unit cell.</p>
+<p>Effective atoms per conventional unit cell:</p>
+<pre><code class="language-text">8 corners x 1/8 + 6 face centers x 1/2 = 4 atoms
+</code></pre>
+<p>Key facts:</p>
+<ul>
+<li>Coordination number: 12</li>
+<li>Atomic packing factor: 0.74</li>
+<li>Close-packed planes: {111}</li>
+<li>Close-packed directions: &lt;110&gt;</li>
+<li>Stacking sequence: ABCABC...</li>
+<li>Atoms touch along the face diagonal.</li>
+</ul>
+<p>Radius-lattice parameter relation:</p>
+<pre><code class="language-text">4r = sqrt(2)a
+a = 2sqrt(2)r
+</code></pre>
+<p>The FCC {111} plane has a triangular arrangement of atoms. This is why it is a close-packed plane.</p>
+<p>Common FCC metals:</p>
+<ul>
+<li>Al</li>
+<li>Cu</li>
+<li>Ni</li>
+<li>Ag</li>
+<li>Au</li>
+<li>Pb</li>
+</ul>
+<h2 id="hcp-hexagonal-close-packed">HCP: Hexagonal Close-Packed</h2>
+<p>HCP is also a close-packed structure, but it uses a hexagonal unit cell instead of a cubic one.</p>
+<p>Key facts:</p>
+<ul>
+<li>Coordination number: 12</li>
+<li>Atomic packing factor: 0.74 for ideal HCP</li>
+<li>Close-packed plane: {0001}, also called the basal plane</li>
+<li>Close-packed directions: &lt;11-20&gt;</li>
+<li>Stacking sequence: ABAB...</li>
+</ul>
+<p>Ideal HCP geometry:</p>
+<pre><code class="language-text">a = 2r
+c/a = 1.633
+</code></pre>
+<p>HCP and FCC have the same packing efficiency and coordination number. The major difference is the layer stacking:</p>
+<pre><code class="language-text">HCP repeats every 2 layers: ABAB...
+FCC repeats every 3 layers: ABCABC...
+</code></pre>
+<p>Common HCP metals:</p>
+<ul>
+<li>Mg</li>
+<li>Ti</li>
+<li>Zn</li>
+<li>Co</li>
+</ul>
+<h2 id="bcc-body-centered-cubic">BCC: Body-Centered Cubic</h2>
+<p>In BCC, atoms are located at the 8 corners and 1 body center of the cubic unit cell.</p>
+<p>Effective atoms per conventional unit cell:</p>
+<pre><code class="language-text">8 corners x 1/8 + 1 body center = 2 atoms
+</code></pre>
+<p>Key facts:</p>
+<ul>
+<li>Coordination number: 8 nearest neighbors</li>
+<li>Atomic packing factor: 0.68</li>
+<li>No true close-packed plane</li>
+<li>Densest planes: {110}</li>
+<li>Closest-packed directions: &lt;111&gt;</li>
+<li>Atoms touch along the body diagonal.</li>
+</ul>
+<p>Radius-lattice parameter relation:</p>
+<pre><code class="language-text">4r = sqrt(3)a
+a = 4r / sqrt(3)
+</code></pre>
+<p>Important exam note:</p>
+<p>Although BCC often slips in &lt;111&gt; directions and has dense {110} planes, the {110} planes are not close-packed in the same strict sense as FCC {111} or HCP {0001}. A true close-packed plane must have atoms arranged in a triangular/hexagonal net.</p>
+<p>Common BCC metals:</p>
+<ul>
+<li>alpha-Fe</li>
+<li>Cr</li>
+<li>W</li>
+<li>Mo</li>
+</ul>
+<h2 id="simple-cubic">Simple Cubic</h2>
+<p>In simple cubic, atoms are located only at the 8 corners of the cubic unit cell.</p>
+<p>Effective atoms per conventional unit cell:</p>
+<pre><code class="language-text">8 corners x 1/8 = 1 atom
+</code></pre>
+<p>Key facts:</p>
+<ul>
+<li>Coordination number: 6</li>
+<li>Atomic packing factor: 0.52</li>
+<li>No true close-packed plane</li>
+<li>Densest plane: {100}</li>
+<li>Nearest-neighbor directions: &lt;100&gt;</li>
+<li>Atoms touch along cube edges.</li>
+</ul>
+<p>Radius-lattice parameter relation:</p>
+<pre><code class="language-text">a = 2r
+</code></pre>
+<p>Simple cubic is relatively open compared with FCC, HCP, and BCC. It is uncommon among real elemental solids.</p>
+<h2 id="rock-salt-structure">Rock Salt Structure</h2>
+<p>Rock salt, also called the NaCl structure, is an ionic crystal structure. It is not a simple metallic packing of identical atoms.</p>
+<p>The easiest way to describe it:</p>
+<pre><code class="language-text">One ion type forms an FCC lattice.
+The other ion type occupies all octahedral sites.
+</code></pre>
+<p>For NaCl specifically:</p>
+<ul>
+<li>Cl- ions can be viewed as forming an FCC sublattice.</li>
+<li>Na+ ions occupy all octahedral holes.</li>
+<li>Equivalently, Na+ and Cl- form two interpenetrating FCC sublattices.</li>
+</ul>
+<p>Key facts:</p>
+<ul>
+<li>Coordination number: 6 for Na+ and 6 for Cl-</li>
+<li>Geometry around each ion: octahedral</li>
+<li>Formula units per conventional unit cell: 4 NaCl</li>
+<li>Ion positions are commonly described as FCC anions plus cations in octahedral sites.</li>
+<li>Nearest unlike-ion directions: &lt;100&gt;</li>
+</ul>
+<p>Nearest-neighbor relation:</p>
+<pre><code class="language-text">r_cation + r_anion = a/2
+a = 2(r_cation + r_anion)
+</code></pre>
+<p>Radius ratio condition for stable octahedral coordination:</p>
+<pre><code class="language-text">0.414 &lt;= r_cation / r_anion &lt;= 0.732
+</code></pre>
+<p>Close-packed plane note:</p>
+<p>Rock salt is often related to FCC packing because the larger ions, commonly the anions, form an FCC array. Therefore the anion sublattice has FCC-style close-packed {111} planes. However, for the full NaCl ionic structure, it is usually better to describe the structure by coordination number and octahedral coordination rather than saying it has a metallic close-packed plane.</p>
+<h2 id="exam-friendly-distinctions">Exam-Friendly Distinctions</h2>
+<p>Do not confuse these ideas:</p>
+<table>
+<thead>
+<tr>
+<th>Concept</th>
+<th>Meaning</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Close-packed plane</td>
+<td>A plane where atoms form a triangular/hexagonal touching pattern</td>
+<td>FCC {111}, HCP {0001}</td>
+</tr>
+<tr>
+<td>Densest plane</td>
+<td>The plane with highest planar density in that structure</td>
+<td>BCC {110}, SC {100}</td>
+</tr>
+<tr>
+<td>Close-packed direction</td>
+<td>A direction along which atoms touch most closely</td>
+<td>FCC &lt;110&gt;, BCC &lt;111&gt;, SC &lt;100&gt;</td>
+</tr>
+<tr>
+<td>Coordination number</td>
+<td>Number of nearest neighbors around one atom or ion</td>
+<td>FCC = 12, BCC = 8, NaCl = 6</td>
+</tr>
+</tbody>
+</table>
+<p>This is why BCC can have a closest-packed direction, &lt;111&gt;, without having a true close-packed plane.</p>
+<h2 id="short-memory-version">Short Memory Version</h2>
+<pre><code class="language-text">FCC:
+  CN = 12
+  APF = 0.74
+  close-packed plane = {111}
+  close-packed direction = &lt;110&gt;
+  stacking = ABCABC
+
+HCP:
+  CN = 12
+  APF = 0.74
+  close-packed plane = {0001}
+  close-packed direction = &lt;11-20&gt;
+  stacking = ABAB
+
+BCC:
+  CN = 8
+  APF = 0.68
+  no true close-packed plane
+  densest plane = {110}
+  closest-packed direction = &lt;111&gt;
+
+Simple Cubic:
+  CN = 6
+  APF = 0.52
+  no true close-packed plane
+  densest plane = {100}
+  nearest-neighbor direction = &lt;100&gt;
+
+Rock Salt:
+  CN = 6 for each ion
+  4 formula units per unit cell
+  two interpenetrating FCC sublattices
+  cations fill octahedral sites
+  best described as octahedral ionic coordination, not simple metallic close packing
+</code></pre>
+<h2 id="common-mistakes">Common Mistakes</h2>
+<ol>
+<li>Saying BCC has close-packed planes.</li>
+</ol>
+<p>More accurate: BCC has no true close-packed plane. Its densest planes are {110}, and its closest-packed directions are &lt;111&gt;.</p>
+<ol start="2">
+<li>Saying FCC and HCP are completely different in packing efficiency.</li>
+</ol>
+<p>More accurate: FCC and HCP both have APF = 0.74 and coordination number 12. Their main difference is stacking sequence.</p>
+<ol start="3">
+<li>Treating rock salt as if it were a one-atom FCC metal.</li>
+</ol>
+<p>More accurate: Rock salt is an ionic structure with two ion types. It has octahedral coordination, 6:6 coordination, and 4 formula units per cubic unit cell.</p>
+<ol start="4">
+<li>Confusing coordination number with number of atoms per unit cell.</li>
+</ol>
+<p>Example: FCC has 4 atoms per conventional unit cell, but each atom has 12 nearest neighbors.</p>
+</main>
+</body>
+</html>
